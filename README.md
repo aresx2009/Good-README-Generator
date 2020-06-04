@@ -9,7 +9,7 @@
   Description<br>
   1
 
-  Table of Contents<br>
+  **Table of Contents**<br>
   **[License](#License)**<br>
   **[Installation](#Installation)**<br>
   **[Test](#Test)**<br>
