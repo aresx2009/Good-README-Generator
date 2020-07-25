@@ -1,11 +1,11 @@
 
-  <h1>ReadmeGenerator</h1>
+  <h1>Good Readme Generator</h1>
   <p>
     <a>
         <img src= "https://img.shields.io/badge/contributor-Bro!-red">
     </a>
   </p>
-  App link: https://aresx2009.github.io/Good-README-Generator/<br>
+  App link: https://www.youtube.com/watch?v=A9UJrwgAFkU<br>
   Description<br>
   Answer few questions and create readme file
 
@@ -25,13 +25,13 @@
   npm install
 
   ## **Test**<br>
-  npm test
+  N/A
 
   ## **Usage**<br>
-  Nothing
+  N/A
 
   ## **Contributing**<br>
-  Nothing
+  N/A
 
   ## **Questions**<br>
   <img src="https://github.com/aresx2009.png" width="150" height="150"/>
